@@ -16,5 +16,12 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhilkumar1612&theme=aura&hide_border=true&include_all_commits=true" width="55%" /> </br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilkumar1612&theme=aura&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilkumar1612&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+</div>
+
+<div align="center">
+  
   ![snake gif](https://github.com/nikhilkumar1612/nikhilkumar1612/blob/output/github-snake.svg)
 </div>
